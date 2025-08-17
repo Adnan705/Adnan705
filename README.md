@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Adnan! 👋
 
-<!--
-**Adnan705/Adnan705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist & Machine Learning Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm currently diving deep into the world of **Data Science** and **Machine Learning**, building small projects and exploring new datasets every day. I enjoy transforming raw data into actionable insights and sharing my learning journey with the community.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Programming:** Python, JavaScript, HTML, CSS
+- **Data Science:** Numpy, pandas, seaborn, Matplotlib
+
+---
+
+## 🌟 Notable Projects
+
+- [Early-Detection-of-Diabetes](https://github.com/Adnan705/Early-Detection-of-Diabetes)
+- [Zomato-Restaurants-EDA-Project](https://github.com/Adnan705/Zomato-Restaurants-EDA-Project)
+- [NetflixMovies-TVShowsEDA](https://github.com/Adnan705/NetflixMovies-TVShowsEDA)
+- [Hospital-Departments-Billing-Summary-Project](https://github.com/Adnan705/Hospital-Departments-Billing-Summary-Project)
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/adnaan17/)
+- [Kaggle](https://www.kaggle.com/adnuan)
+- [X (Twitter)](https://x.com/addubwoy)
+
+---
+
+_Always open to collaboration and learning opportunities!_
